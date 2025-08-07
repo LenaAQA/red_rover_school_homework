@@ -1,4 +1,3 @@
-# red_rover_school_homework
+# **red_rover_school_homework**
 
-Домашние задания к курсу
----
+### **Домашние задания к курсу**
