@@ -1,3 +1,3 @@
-# **red_rover_school_homework**
+<h1 align="center"><strong>red_rover_school_homework</strong></h1>
 
-### **Домашние задания к курсу**
+<h3 align="center"><strong>Домашние задания к курсу</strong></h3>
